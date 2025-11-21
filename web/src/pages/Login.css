@@ -1,0 +1,13 @@
+/* Minimal Login page styles (placeholder) */
+.login-container {
+  max-width: 420px;
+  margin: 48px auto;
+  padding: 16px;
+}
+
+.login-card {
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 16px;
+}
