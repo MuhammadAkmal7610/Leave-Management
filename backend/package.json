@@ -11,6 +11,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "@json2csv/plainjs": "^7.0.6",
     "@types/cors": "^2.8.12",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",

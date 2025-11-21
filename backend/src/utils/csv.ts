@@ -1,9 +1,9 @@
-import { Parser } from 'json2csv';
+ import { Parser } from '@json2csv/plainjs';   // <-- FIXED
 import fs from 'fs';
 import path from 'path';
 
 export const exportToCSV = (data: any[], filename: string) => {
-    const csvParser = new Parser();
+    const csvParser = new Parser();           // Same usage
     const csv = csvParser.parse(data);
     const filePath = path.join(__dirname, `../../exports/${filename}.csv`);
 

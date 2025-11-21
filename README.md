@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Leave Management System
 
 ## Overview
@@ -82,3 +83,7 @@ If you'd like, I can perform the migration to Vite (I can convert the project an
 ## License
 
 MIT
+=======
+# Leave-Management
+its full leave management system
+>>>>>>> 588bc74c3169e42aebca65c73ee9908f4e0b0e1f
